@@ -8,8 +8,6 @@ if(n<=0):
 elif(n==1):
     print(1)
 else:
-    # print(x)
-    # print(y)
     for i in range(n-2):
         z=x+y
         temp=x
